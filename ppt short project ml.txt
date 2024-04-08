@@ -1,0 +1,36 @@
+image processing concept known as image subtraction -> difference between two frames in a speed camera usually background is same the vehicles that come in front of the background 
+the capture only this vehicle subtraction is able to find the difference  
+bw forebackground based on the movement 
+
+
+thre main stages used 
+
+vehicle detection we are use image subtraction for speed 
+speed estimation is distance elapsed  
+caturing vehicle image 
+
+
+
+image subtraction which help us find where the vehicles are 
+
+masking is used to make the image binary by make black and white and one or zero the vehicle would be white and background is black 
+
+
+erosion is used to dintinguish the foreground sometimes happend when two vehicle are close by they going to detected to so ersion able to find the difference bw objects 
+
+contour detection we are finding the shape the vehicle is coming is and save details and draw a bounding box 
+
+
+object tractiong we use id and object recognition we find object and see object movement 
+object tracking is basically used for videos 
+and user speed calculation  start timer to end timer 
+
+
+
+
+
+
+ 
+
+
+
